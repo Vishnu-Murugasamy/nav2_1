@@ -1,0 +1,12 @@
+# ROS 2 specific ignores
+install/
+log/
+build/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor files
+.vscode/
+.idea/
+*.swp
